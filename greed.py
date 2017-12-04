@@ -39,6 +39,7 @@ def set_G_as(number_of_turns, keyword):
         return
     return G
 
+#Example:
 greed_function = set_G_as(1000, 'Step')
 greed_function
 

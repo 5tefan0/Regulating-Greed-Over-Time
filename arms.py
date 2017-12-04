@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def create_arms(number_of_arms,arms_behavior, policies):
     arms = [0 for i in range(number_of_arms)]
     for i in range(number_of_arms):
